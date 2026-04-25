@@ -1,4 +1,4 @@
-# ⭐ Badge Booster v3
+# ⭐ Badges
 
 Un mini-projet conçu pour débloquer rapidement plusieurs badges GitHub :
 
