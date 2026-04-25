@@ -1,5 +1,14 @@
-# Badges
-Débloquer des badges github
+# ⭐ Badge Booster v3
+
+Un mini-projet conçu pour débloquer rapidement plusieurs badges GitHub :
+
+- Pages Publisher
+- Actions Contributor
+- YOLO
+- Galaxy Brain
+- Starstruck
+
+Si ce projet t’a aidé, laisse une ⭐ pour soutenir le travail !
 
 # Structures
 ```text
