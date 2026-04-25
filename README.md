@@ -2,6 +2,7 @@
 Débloquer des badges github
 
 # Structures
+```text
 Badges/
 │
 ├── .github/
@@ -10,3 +11,4 @@ Badges/
 │
 ├── index.html
 └── README.md
+```
